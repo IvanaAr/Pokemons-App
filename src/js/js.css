@@ -1,0 +1,40 @@
+.main_form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.form {
+    margin-top: 5%;
+    padding: 5%;
+    background-color: gold;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    padding: 15px 15px;
+    border: none;
+}
+
+button {
+    margin-top: 5%;
+    border: none;
+    padding: 15px;
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+
+.factors {
+    display: flex;
+    flex-direction: row;
+}
+
+.factor {
+    margin: 5%;
+    width: 30rem;
+    padding: 5%;
+    box-shadow: 2px 2px 22px 0 rgba(181, 181, 181, 1);
+}
