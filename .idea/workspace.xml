@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6aea9560-9a12-4577-9ebc-a2b2a36617a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,11 +28,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="223">
+              <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="192">
+                <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -69,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/js/js.js" />
         <option value="$PROJECT_DIR$/src/grid/grid.css" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -84,8 +96,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
+    <option name="x" value="437" />
+    <option name="width" value="1493" />
     <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
@@ -175,7 +187,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572892349216</updated>
       <workItem from="1572892350589" duration="728000" />
-      <workItem from="1572893490994" duration="82000" />
+      <workItem from="1572893490994" duration="565000" />
     </task>
     <task id="LOCAL-00001" summary="NEW: added main folder structure with markup and logic">
       <created>1572893049959</created>
@@ -184,19 +196,33 @@
       <option name="project" value="LOCAL" />
       <updated>1572893049960</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="NEW: added devDependencies">
+      <created>1572893607938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572893607938</updated>
+    </task>
+    <task id="LOCAL-00003" summary="UPDATE: updated README documentation">
+      <created>1572894021609</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572894021609</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="810000" />
+    <option name="totallyTimeSpent" value="1293000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="0" width="782" height="831" extended-state="0" />
+    <frame x="350" y="0" width="1194" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8761062" visible="true" weight="0.30067113" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8761062" visible="true" weight="0.19360414" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" sideWeight="0.123893805" side_tool="true" visible="true" weight="0.30067113" />
+      <window_info id="npm" order="2" sideWeight="0.123893805" side_tool="true" visible="true" weight="0.19360414" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -221,7 +247,9 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="NEW: added main folder structure with markup and logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="NEW: added main folder structure with markup and logic" />
+    <MESSAGE value="NEW: added devDependencies" />
+    <MESSAGE value="UPDATE: updated README documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE: updated README documentation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/js/js.js">
@@ -252,8 +280,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="223">
+          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="192">
+            <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

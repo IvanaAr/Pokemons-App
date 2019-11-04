@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 `
 git clone https://github.com/ivananutrition/Pokemons-App.git
+`
+`
 cd Pokemons-App
 `
 
